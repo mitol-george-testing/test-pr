@@ -1,5 +1,6 @@
 ---
-objectfield: {}
+objectfield:
+  hiddenfield: hiddenvalue
 textfield: visible
 title: newpage
 type: page
