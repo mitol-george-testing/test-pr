@@ -1,7 +1,6 @@
 ---
-objectfield:
-  hiddenfield: ''
-textfield: 'visible '
+objectfield: {}
+textfield: visible
 title: newpage
 type: page
 uid: ad8c4862-52b0-43c3-b2e8-8e7eb81a4a78
